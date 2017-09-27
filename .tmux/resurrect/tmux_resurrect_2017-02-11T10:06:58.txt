@@ -1,0 +1,28 @@
+pane	0	0	:zsh	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:zsh	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:zsh	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:zsh	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:zsh	0	:	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:zsh	0	:	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:bash /Users/colinarmstrong/.tmux/plugins/tmux-resurrect/scripts/../save_command_strategies/ps.sh 9261
+ps -eo ppid command
+sed s/^ *//
+grep ^9261
+cut -d  -f2-
+pane	0	2	:node	0	:-	3	:/usr/local/Cellar	0	zsh	:
+pane	0	3	:zsh	1	:*	0	:/Users/colinarmstrong/Documents/School/4B/ECE406	1	zsh	:
+pane	0	3	:zsh	1	:*	1	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	0	3	:zsh	1	:*	2	:/Users/colinarmstrong	0	zsh	:
+pane	1	0	:zsh	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+window	0	0	0	:	4b69,272x62,0,0{138x62,0,0[138x33,0,0,1,138x28,0,34,2],133x62,139,0[133x33,139,0,3,133x28,139,34,4]}
+window	0	1	0	:	b10f,272x62,0,0{90x62,0,0[90x32,0,0,5,90x29,0,33,6],90x62,91,0[90x32,91,0,7,90x29,91,33,8],90x62,182,0[90x32,182,0,9,90x29,182,33,10]}
+window	0	2	0	:-	5134,272x62,0,0[272x32,0,0{137x32,0,0,11,134x32,138,0,12},272x29,0,33{137x29,0,33,13,134x29,138,33,14}]
+window	0	3	1	:*	c949,272x62,0,0[272x32,0,0,15,272x29,0,33{137x29,0,33,16,134x29,138,33,17}]
+window	1	0	1	:*	5967,80x24,0,0,18
+state	0	1

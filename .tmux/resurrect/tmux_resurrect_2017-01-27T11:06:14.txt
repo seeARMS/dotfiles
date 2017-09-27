@@ -1,0 +1,6 @@
+pane	0	0	:zsh	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	0	:zsh	1	:*	1	:/Users/colinarmstrong/src/heroku-mongo-backup	0	zsh	:
+pane	0	0	:zsh	1	:*	2	:/Users/colinarmstrong/src/mongo-backup	1	zsh	:
+pane	0	0	:zsh	1	:*	3	:/Users/colinarmstrong/src	0	zsh	:
+window	0	0	1	:*	80b3,272x66,0,0{137x66,0,0[137x34,0,0,0,137x31,0,35,5],134x66,138,0[134x34,138,0,3,134x31,138,35,6]}
+state	0	

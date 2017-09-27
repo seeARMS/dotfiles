@@ -1,0 +1,79 @@
+pane	0	0	:nvim	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:nvim	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/Resources/Python.app/Contents/MacOS/Python -c import sys; sys.path.remove(""); import neovim; neovim.start_host() /Users/colinarmstrong/.config/nvim/plugged/deoplete.nvim/rplugin/python3/deoplete
+pane	0	0	:nvim	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:nvim	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:../local/Cellar	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:../local/Cellar	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:../local/Cellar	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:../local/Cellar	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:bash /Users/colinarmstrong/.tmux/plugins/tmux-resurrect/scripts/save.sh quiet
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	4	0	:nvim	0	:-	0	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	0	:nvim	0	:-	1	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	4	0	:nvim	0	:-	2	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	4	0	:nvim	0	:-	3	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	1	:..in-landing/js	1	:*	0	:/Users/colinarmstrong/src/imgcoin-landing	1	zsh	:
+pane	4	1	:..in-landing/js	1	:*	1	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	1	:..in-landing/js	1	:*	2	:/Users/colinarmstrong/src/imgcoin-landing/js	0	zsh	:
+pane	4	1	:..in-landing/js	1	:*	3	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	2	:..c/FareBolt/js	0	:	0	:/Users/colinarmstrong/src/FareBolt/js	1	zsh	:
+pane	5	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	5	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	5	0	:nvim	1	:*	2	:/Users/colinarmstrong	0	zsh	:
+pane	6	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim index.js
+pane	6	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim api/bittrex/watcher.js
+pane	6	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	1	:~/src/gekko	0	:	0	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	1	:~/src/gekko	0	:	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	0	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	1	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	2	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	2	:..to/autotrader	0	:-	3	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	3	:..tfare-website	0	:	0	:/Users/colinarmstrong/src/boltfare-website	1	zsh	:
+pane	8	0	:~	1	:*	0	:/Users/colinarmstrong	1	zsh	:
+pane	9	0	:../autotraderv2	1	:*	0	:/Users/colinarmstrong/src/crypto/autotraderv2	1	zsh	:
+pane	9	0	:../autotraderv2	1	:*	1	:/Users/colinarmstrong/src/crypto/autotraderv2	0	nvim	:nvim api/bittrex/index.js
+pane	9	0	:../autotraderv2	1	:*	2	:/Users/colinarmstrong/src/crypto/autotraderv2	0	nvim	:nvim util/watcher.js
+pane	9	0	:../autotraderv2	1	:*	3	:/Users/colinarmstrong/src/crypto/autotraderv2	0	nvim	:nvim index.js
+pane	9	1	:nvim	0	:-	0	:/Users/colinarmstrong/src/ereos-landing	1	nvim	:nvim index.html
+pane	9	1	:nvim	0	:-	1	:/Users/colinarmstrong/src/ereos-landing	0	nvim	:nvim css/style.css
+pane	9	1	:nvim	0	:-	2	:/Users/colinarmstrong/src/ereos-landing	0	zsh	:
+pane	9	2	:~/src/gekko	0	:	0	:/Users/colinarmstrong/src/ereos-landing	1	zsh	:
+pane	9	2	:~/src/gekko	0	:	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	9	2	:~/src/gekko	0	:	2	:/Users/colinarmstrong/src/gekko	0	zsh	:
+window	0	0	0	:	016a,237x57,0,0{120x57,0,0[120x31,0,0,2,120x25,0,32,4],116x57,121,0[116x31,121,0,6,116x25,121,32,8]}
+window	0	1	0	:-	78ea,237x57,0,0{76x57,0,0[76x30,0,0,10,76x26,0,31,12],78x57,77,0[78x30,77,0,14,78x26,77,31,16],81x57,156,0[81x30,156,0,18,81x26,156,31,20]}
+window	0	2	1	:*	d9f9,237x57,0,0[237x30,0,0{119x30,0,0,22,117x30,120,0,24},237x26,0,31{119x26,0,31,26,117x26,120,31,28}]
+window	1	0	1	:*	66a0,237x57,0,0,30
+window	2	0	1	:*	d68b,237x57,0,0{79x57,0,0[79x28,0,0,32,79x28,0,29,34],77x57,80,0[77x28,80,0,36,77x28,80,29,38],79x57,158,0[79x28,158,0,40,79x28,158,29,42]}
+window	2	1	0	:-	bdf2,237x57,0,0[237x28,0,0{119x28,0,0,44,117x28,120,0,46},237x28,0,29{119x28,0,29,48,117x28,120,29,50}]
+window	4	0	0	:-	1c29,237x57,0,0{119x57,0,0[119x29,0,0,52,119x27,0,30,54],117x57,120,0[117x29,120,0,56,117x27,120,30,58]}
+window	4	1	1	:*	16a7,237x57,0,0{119x57,0,0[119x28,0,0,60,119x28,0,29,62],117x57,120,0[117x28,120,0,64,117x28,120,29,66]}
+window	4	2	0	:	e6a9,237x57,0,0,68
+window	5	0	1	:*	5060,237x57,0,0[237x28,0,0,70,237x28,0,29{119x28,0,29,72,117x28,120,29,74}]
+window	6	0	1	:*	de00,237x57,0,0[237x28,0,0{119x28,0,0,76,117x28,120,0,78},237x28,0,29{119x28,0,29,80,117x28,120,29,82}]
+window	6	1	0	:	4799,237x57,0,0{120x57,0,0,84,116x57,121,0,86}
+window	6	2	0	:-	8f73,237x57,0,0[237x36,0,0{120x36,0,0,88,116x36,121,0,90},237x20,0,37{120x20,0,37,92,116x20,121,37,94}]
+window	6	3	0	:	66a9,237x57,0,0,96
+window	8	0	1	:*	66ab,237x57,0,0,98
+window	9	0	1	:*	0bc3,237x56,0,0{118x56,0,0[118x27,0,0,100,118x28,0,28,102],118x56,119,0[118x27,119,0,104,118x28,119,28,106]}
+window	9	1	0	:-	0f27,237x56,0,0{118x56,0,0,108,118x56,119,0[118x27,119,0,110,118x28,119,28,112]}
+window	9	2	0	:	84b7,237x56,0,0[237x27,0,0,114,237x28,0,28{118x28,0,28,116,118x28,119,28,118}]
+state	9	8

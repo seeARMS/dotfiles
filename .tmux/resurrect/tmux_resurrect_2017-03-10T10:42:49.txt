@@ -1,0 +1,51 @@
+pane	0	0	:nvim	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:nvim	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:nvim	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:nvim	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:..ltfare-server	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	9	0	:..ltfare-server	0	:	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	9	0	:..ltfare-server	0	:	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	9	0	:..ltfare-server	0	:	2	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	9	0	:..ltfare-server	0	:	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	9	0	:..ltfare-server	0	:	4	:/Users/colinarmstrong/src/boltfare-server	1	node	:node index.js
+pane	9	0	:..ltfare-server	0	:	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	9	1	:mongo	0	:	0	:/Users/colinarmstrong	1	mongo	:mongo
+pane	9	1	:mongo	0	:	1	:/Users/colinarmstrong	0	mongod	:mongod
+pane	9	1	:mongo	0	:	2	:/Users/colinarmstrong	0	zsh	:
+pane	9	1	:mongo	0	:	3	:/Users/colinarmstrong	0	node	:node /Users/colinarmstrong/.nvm/versions/node/v7.1.0/bin/lt -p 3030 -s boltfare
+pane	9	2	:~	0	:-	0	:/Users/colinarmstrong	1	zsh	:
+pane	9	3	:~/src/FareBolt	1	:*	0	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	9	3	:~/src/FareBolt	1	:*	1	:/Users/colinarmstrong/src/FareBolt	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff
+pane	9	3	:~/src/FareBolt	1	:*	2	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	9	3	:~/src/FareBolt	1	:*	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+window	0	0	0	:	f582,161x39,0,0{82x39,0,0[82x22,0,0,1,82x16,0,23,2],78x39,83,0[78x22,83,0,3,78x16,83,23,4]}
+window	0	1	0	:-	781c,161x39,0,0{51x39,0,0[51x21,0,0,5,51x17,0,22,6],53x39,52,0[53x21,52,0,7,53x17,52,22,8],55x39,106,0[55x21,106,0,9,55x17,106,22,10]}
+window	0	2	1	:*	ab6a,161x39,0,0[161x21,0,0{81x21,0,0,11,79x21,82,0,12},161x17,0,22{81x17,0,22,13,79x17,82,22,14}]
+window	1	0	1	:*	6774,161x39,0,0,15
+window	2	0	1	:*	dcf6,161x39,0,0{53x39,0,0[53x20,0,0,16,53x18,0,21,17],52x39,54,0[52x20,54,0,18,52x18,54,21,19],54x39,107,0[54x20,107,0,20,54x18,107,21,21]}
+window	2	1	0	:-	3461,161x39,0,0[161x20,0,0{81x20,0,0,22,79x20,82,0,23},161x18,0,21{81x18,0,21,24,79x18,82,21,25}]
+window	9	0	0	:	5a15,197x47,0,0{64x47,0,0[64x23,0,0,45,64x23,0,24,52],65x47,65,0[65x23,65,0,50,65x23,65,24,53],66x47,131,0[66x23,131,0,51,66x23,131,24,54]}
+window	9	1	0	:	7146,197x47,0,0{100x47,0,0[100x23,0,0,31,100x23,0,24,56],96x47,101,0[96x23,101,0,33,96x23,101,24,34]}
+window	9	2	0	:-	6658,197x47,0,0,57
+window	9	3	1	:*	a94b,197x47,0,0{98x47,0,0[98x23,0,0,58,98x23,0,24,61],98x47,99,0[98x23,99,0,59,98x23,99,24,60]}
+state	9	2

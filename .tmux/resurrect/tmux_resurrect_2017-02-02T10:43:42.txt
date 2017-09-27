@@ -1,0 +1,18 @@
+pane	0	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim parser/index.js
+pane	0	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim api/routes/mailparser.js
+pane	0	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/parser	0	nvim	:nvim AirfareWatchdog.js
+pane	0	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	1	nvim	:nvim messages/dispatch-action.js
+pane	0	1	:zsh	0	:	0	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim util/geocode.js
+pane	0	1	:zsh	0	:	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	2	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim messages/handlers/plan-trip.js
+pane	0	1	:zsh	0	:	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	4	:/Users/colinarmstrong/src/boltfare-server	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff
+pane	0	1	:zsh	0	:	5	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:node	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	1	mongo	:mongo
+pane	0	2	:node	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	0	mongod	:mongod
+pane	0	2	:node	0	:-	3	:/usr/local/Cellar	0	ngrok	:ngrok http 3030
+window	0	0	1	:*	00b5,272x66,0,0{137x66,0,0[137x34,0,0,1,137x31,0,35,2],134x66,138,0[134x34,138,0,3,134x31,138,35,4]}
+window	0	1	0	:	e045,272x66,0,0{89x66,0,0[89x33,0,0,5,89x32,0,34,6],90x66,90,0[90x33,90,0,7,90x32,90,34,8],91x66,181,0[91x33,181,0,9,91x32,181,34,10]}
+window	0	2	0	:-	a2e0,272x66,0,0[272x33,0,0{136x33,0,0,11,135x33,137,0,15},272x32,0,34{136x32,0,34,12,135x32,137,34,13}]
+state	0	

@@ -1,0 +1,148 @@
+pane	0	0	:nvim	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:nvim	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:nvim	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:nvim	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:nvim	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:nvim	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:nvim	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	0	:nvim	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:..ltfare-server	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:..ltfare-server	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	4	0	:nvim	0	:-	0	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	0	:nvim	0	:-	0	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	0	:nvim	0	:-	1	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	4	0	:nvim	0	:-	1	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	4	0	:nvim	0	:-	2	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	4	0	:nvim	0	:-	2	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	4	0	:nvim	0	:-	3	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	0	:nvim	0	:-	3	:/Users/colinarmstrong/src/dropship	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	0	:/Users/colinarmstrong/src/imgcoin-landing	1	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	0	:/Users/colinarmstrong/src/imgcoin-landing	1	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	1	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	1	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	2	:/Users/colinarmstrong/src/imgcoin-landing/js	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	2	:/Users/colinarmstrong/src/imgcoin-landing/js	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	3	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	1	:..gcoin-landing	1	:*	3	:/Users/colinarmstrong/src/imgcoin-landing	0	zsh	:
+pane	4	2	:..c/FareBolt/js	0	:	0	:/Users/colinarmstrong/src/FareBolt/js	1	zsh	:
+pane	4	2	:..c/FareBolt/js	0	:	0	:/Users/colinarmstrong/src/FareBolt/js	1	zsh	:
+pane	5	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	5	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/dropship	0	nvim	:nvim scraper3.py
+pane	5	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	5	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/dropship	1	zsh	:
+pane	5	0	:nvim	1	:*	2	:/Users/colinarmstrong	0	zsh	:
+pane	5	0	:nvim	1	:*	2	:/Users/colinarmstrong	0	zsh	:
+pane	6	0	:tail	1	:*	0	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim index.js
+pane	6	0	:tail	1	:*	0	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim index.js
+pane	6	0	:tail	1	:*	1	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim api/bittrex/watcher.js
+pane	6	0	:tail	1	:*	1	:/Users/colinarmstrong/src/crypto/autotrader	0	nvim	:nvim api/bittrex/watcher.js
+pane	6	0	:tail	1	:*	2	:/Users/colinarmstrong/src/crypto/autotrader	1	node	:node index
+pane	6	0	:tail	1	:*	2	:/Users/colinarmstrong/src/crypto/autotrader	1	node	:node index
+pane	6	0	:tail	1	:*	3	:/Users/colinarmstrong/src/crypto/autotrader	0	tail	:tail -f sleeping.txt
+pane	6	0	:tail	1	:*	3	:/Users/colinarmstrong/src/crypto/autotrader	0	tail	:tail -f sleeping.txt
+pane	6	1	:..to/autotrader	0	:	0	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	1	:..to/autotrader	0	:	0	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	1	:..to/autotrader	0	:	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	6	1	:..to/autotrader	0	:	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	0	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	0	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	1	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	1	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	2	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	2	:..to/autotrader	0	:-	2	:/Users/colinarmstrong/src/crypto/autotrader	1	zsh	:
+pane	6	2	:..to/autotrader	0	:-	3	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	2	:..to/autotrader	0	:-	3	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	6	3	:..tfare-website	0	:	0	:/Users/colinarmstrong/src/boltfare-website	1	zsh	:
+pane	6	3	:..tfare-website	0	:	0	:/Users/colinarmstrong/src/boltfare-website	1	zsh	:
+pane	8	0	:~	1	:*	0	:/Users/colinarmstrong	1	zsh	:
+pane	8	0	:~	1	:*	0	:/Users/colinarmstrong	1	zsh	:
+pane	9	0	:..to/autotrader	1	:*	0	:/Users/colinarmstrong/src/crypto/autotrader	1	nvim	:zsh
+pane	9	0	:..to/autotrader	1	:*	0	:/Users/colinarmstrong/src/crypto/autotrader	1	nvim	:zsh
+pane	9	0	:..to/autotrader	1	:*	1	:/Users/colinarmstrong/src/crypto/autotrader	0	node	:node index
+pane	9	0	:..to/autotrader	1	:*	1	:/Users/colinarmstrong/src/crypto/autotrader	0	node	:node index
+pane	9	0	:..to/autotrader	1	:*	2	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	9	0	:..to/autotrader	1	:*	2	:/Users/colinarmstrong/src/crypto/autotrader	0	zsh	:
+pane	9	0	:..to/autotrader	1	:*	3	:/Users/colinarmstrong/src/crypto/autotrader	0	tail	:tail -f maxmin3.txt
+pane	9	0	:..to/autotrader	1	:*	3	:/Users/colinarmstrong/src/crypto/autotrader	0	tail	:tail -f maxmin3.txt
+pane	9	2	:~/src/gekko	0	:-	0	:/Users/colinarmstrong/src/gekko	1	zsh	:
+pane	9	2	:~/src/gekko	0	:-	0	:/Users/colinarmstrong/src/gekko	1	zsh	:
+pane	9	2	:~/src/gekko	0	:-	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	9	2	:~/src/gekko	0	:-	1	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	9	2	:~/src/gekko	0	:-	2	:/Users/colinarmstrong/src/gekko	0	zsh	:
+pane	9	2	:~/src/gekko	0	:-	2	:/Users/colinarmstrong/src/gekko	0	zsh	:
+window	0	0	0	:	8e97,237x56,0,0{120x56,0,0[120x30,0,0,1,120x25,0,31,2],116x56,121,0[116x30,121,0,3,116x25,121,31,4]}
+window	0	0	0	:	8e97,237x56,0,0{120x56,0,0[120x30,0,0,1,120x25,0,31,2],116x56,121,0[116x30,121,0,3,116x25,121,31,4]}
+window	0	1	0	:-	7021,237x56,0,0{76x56,0,0[76x29,0,0,5,76x26,0,30,6],78x56,77,0[78x29,77,0,7,78x26,77,30,8],81x56,156,0[81x29,156,0,9,81x26,156,30,10]}
+window	0	1	0	:-	7021,237x56,0,0{76x56,0,0[76x29,0,0,5,76x26,0,30,6],78x56,77,0[78x29,77,0,7,78x26,77,30,8],81x56,156,0[81x29,156,0,9,81x26,156,30,10]}
+window	0	2	1	:*	686c,237x56,0,0[237x29,0,0{119x29,0,0,11,117x29,120,0,12},237x26,0,30{119x26,0,30,13,117x26,120,30,14}]
+window	0	2	1	:*	686c,237x56,0,0[237x29,0,0{119x29,0,0,11,117x29,120,0,12},237x26,0,30{119x26,0,30,13,117x26,120,30,14}]
+window	1	0	1	:*	64a4,237x56,0,0,15
+window	1	0	1	:*	64a4,237x56,0,0,15
+window	2	0	1	:*	2a8f,237x56,0,0{79x56,0,0[79x28,0,0,16,79x27,0,29,17],77x56,80,0[77x28,80,0,18,77x27,80,29,19],79x56,158,0[79x28,158,0,20,79x27,158,29,21]}
+window	2	0	1	:*	2a8f,237x56,0,0{79x56,0,0[79x28,0,0,16,79x27,0,29,17],77x56,80,0[77x28,80,0,18,77x27,80,29,19],79x56,158,0[79x28,158,0,20,79x27,158,29,21]}
+window	2	1	0	:-	fba4,237x56,0,0[237x28,0,0{119x28,0,0,22,117x28,120,0,23},237x27,0,29{119x27,0,29,24,117x27,120,29,25}]
+window	2	1	0	:-	fba4,237x56,0,0[237x28,0,0{119x28,0,0,22,117x28,120,0,23},237x27,0,29{119x27,0,29,24,117x27,120,29,25}]
+window	4	0	0	:-	0b14,237x56,0,0{119x56,0,0[119x29,0,0,26,119x26,0,30,27],117x56,120,0[117x29,120,0,28,117x26,120,30,29]}
+window	4	0	0	:-	0b14,237x56,0,0{119x56,0,0[119x29,0,0,26,119x26,0,30,27],117x56,120,0[117x29,120,0,28,117x26,120,30,29]}
+window	4	1	1	:*	858a,237x56,0,0{119x56,0,0[119x28,0,0,30,119x27,0,29,31],117x56,120,0[117x28,120,0,32,117x27,120,29,33]}
+window	4	1	1	:*	858a,237x56,0,0{119x56,0,0[119x28,0,0,30,119x27,0,29,31],117x56,120,0[117x28,120,0,32,117x27,120,29,33]}
+window	4	2	0	:	64a4,237x56,0,0,34
+window	4	2	0	:	64a4,237x56,0,0,34
+window	5	0	1	:*	ce3b,237x56,0,0[237x28,0,0,35,237x27,0,29{119x27,0,29,36,117x27,120,29,37}]
+window	5	0	1	:*	ce3b,237x56,0,0[237x28,0,0,35,237x27,0,29{119x27,0,29,36,117x27,120,29,37}]
+window	6	0	1	:*	dbc0,237x56,0,0[237x28,0,0{119x28,0,0,39,117x28,120,0,49},237x27,0,29{119x27,0,29,40,117x27,120,29,41}]
+window	6	0	1	:*	dbc0,237x56,0,0[237x28,0,0{119x28,0,0,39,117x28,120,0,49},237x27,0,29{119x27,0,29,40,117x27,120,29,41}]
+window	6	1	0	:	a654,237x56,0,0{120x56,0,0,42,116x56,121,0,43}
+window	6	1	0	:	a654,237x56,0,0{120x56,0,0,42,116x56,121,0,43}
+window	6	2	0	:-	f1f4,237x56,0,0[237x36,0,0{120x36,0,0,44,116x36,121,0,45},237x19,0,37{120x19,0,37,46,116x19,121,37,47}]
+window	6	2	0	:-	f1f4,237x56,0,0[237x36,0,0{120x36,0,0,44,116x36,121,0,45},237x19,0,37{120x19,0,37,46,116x19,121,37,47}]
+window	6	3	0	:	e4a8,237x56,0,0,48
+window	6	3	0	:	e4a8,237x56,0,0,48
+window	8	0	1	:*	63e2,234x56,0,0,51
+window	8	0	1	:*	63e2,234x56,0,0,51
+window	9	0	1	:*	136d,237x57,0,0{118x57,0,0[118x28,0,0,52,118x28,0,29,54],118x57,119,0[118x28,119,0,53,118x28,119,29,55]}
+window	9	0	1	:*	136d,237x57,0,0{118x57,0,0[118x28,0,0,52,118x28,0,29,54],118x57,119,0[118x28,119,0,53,118x28,119,29,55]}
+window	9	2	0	:-	f8f7,237x57,0,0[237x28,0,0,57,237x28,0,29{118x28,0,29,58,118x28,119,29,59}]
+window	9	2	0	:-	f8f7,237x57,0,0[237x28,0,0,57,237x28,0,29{118x28,0,29,58,118x28,119,29,59}]
+state	9	
+state	9	

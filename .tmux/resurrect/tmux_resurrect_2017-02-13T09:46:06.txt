@@ -1,0 +1,32 @@
+pane	0	0	:zsh	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:zsh	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:zsh	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:zsh	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:zsh	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:zsh	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:node	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:zsh	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:zsh	0	:-	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:zsh	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	node	:node index.js
+pane	2	0	:zsh	0	:-	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:zsh	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:zsh	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:zsh	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:zsh	1	:*	0	:/Users/colinarmstrong	0	mongod	:mongod
+pane	2	1	:zsh	1	:*	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:zsh	1	:*	2	:/Users/colinarmstrong	0	mongo	:mongo
+pane	2	1	:zsh	1	:*	3	:/Users/colinarmstrong	1	zsh	:
+window	0	0	0	:	4768,235x54,0,0{119x54,0,0[119x29,0,0,1,119x24,0,30,2],115x54,120,0[115x29,120,0,3,115x24,120,30,4]}
+window	0	1	0	:-	1c71,235x54,0,0{77x54,0,0[77x28,0,0,5,77x25,0,29,6],78x54,78,0[78x28,78,0,7,78x25,78,29,8],78x54,157,0[78x28,157,0,9,78x25,157,29,10]}
+window	0	2	1	:*	d674,235x54,0,0[235x28,0,0{118x28,0,0,11,116x28,119,0,12},235x25,0,29{118x25,0,29,13,116x25,119,29,14}]
+window	1	0	1	:*	5967,80x24,0,0,18
+window	2	0	0	:-	ae13,238x57,0,0{78x57,0,0[78x28,0,0,19,78x28,0,29,25],78x57,79,0[78x28,79,0,22,78x28,79,29,23],80x57,158,0[80x28,158,0,20,80x28,158,29,24]}
+window	2	1	1	:*	2e5e,238x57,0,0[238x28,0,0{119x28,0,0,26,118x28,120,0,29},238x28,0,29{119x28,0,29,27,118x28,120,29,28}]
+state	2	

@@ -1,0 +1,24 @@
+pane	0	0	:zsh	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:zsh	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	node	:node index.js
+pane	0	0	:zsh	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	zsh	:
+pane	0	0	:zsh	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim js/facebook.js
+pane	0	1	:zsh	0	:	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	1	:/Users/colinarmstrong/src/boltfare-server	0	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git diff
+pane	0	1	:zsh	0	:	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:zsh	0	:	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:zsh	0	:	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:node	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:node	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	0	mongod	:mongod
+pane	0	2	:node	0	:-	3	:/usr/local/Cellar	0	zsh	:
+pane	0	3	:nvim	1	:*	0	:/Users/colinarmstrong/Documents/School/4B/ECE406	1	nvim	:nvim assignment3_BFS.py
+pane	0	3	:nvim	1	:*	1	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	0	3	:nvim	1	:*	2	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	1	0	:zsh	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+window	0	0	0	:	f513,272x62,0,0{137x62,0,0[137x32,0,0,1,137x29,0,33,2],134x62,138,0[134x32,138,0,3,134x29,138,33,4]}
+window	0	1	0	:	22bf,272x62,0,0{89x62,0,0[89x31,0,0,5,89x30,0,32,6],90x62,90,0[90x31,90,0,7,90x30,90,32,8],91x62,181,0[91x31,181,0,9,91x30,181,32,10]}
+window	0	2	0	:-	5c39,272x62,0,0[272x31,0,0{136x31,0,0,11,135x31,137,0,12},272x30,0,32{136x30,0,32,13,135x30,137,32,14}]
+window	0	3	1	:*	21b8,272x62,0,0[272x31,0,0,17,272x30,0,32{136x30,0,32,18,135x30,137,32,19}]
+window	1	0	1	:*	5984,261x70,0,0,15
+state	0	

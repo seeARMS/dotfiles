@@ -1,0 +1,47 @@
+pane	0	0	:nvim	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:nvim	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:nvim	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:nvim	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:..ltfare-server	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	9	2	:~	0	:	0	:/Users/colinarmstrong	1	zsh	:
+pane	9	3	:nvim	0	:-	0	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	9	3	:nvim	0	:-	1	:/Users/colinarmstrong/src/FareBolt	0	zsh	:
+pane	9	3	:nvim	0	:-	2	:/Users/colinarmstrong/src/FareBolt	0	zsh	:
+pane	9	3	:nvim	0	:-	3	:/Users/colinarmstrong/src/FareBolt	1	nvim	:nvim css/new-age.css
+pane	9	4	:..ool/4B/ECE406	0	:	0	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	9	4	:..ool/4B/ECE406	0	:	1	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	9	4	:..ool/4B/ECE406	0	:	2	:/Users/colinarmstrong/Documents/School/4B/ECE406	0	zsh	:
+pane	9	4	:..ool/4B/ECE406	0	:	3	:/Users/colinarmstrong/Documents/School/4B/ECE406	1	zsh	:
+pane	9	5	:brew	1	:*	0	:/Users/colinarmstrong/src/ece457/SmileVision/src	0	zsh	:
+pane	9	5	:brew	1	:*	1	:/Users/colinarmstrong/src/FareBolt	1	ruby	:/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby -W0 /usr/local/Homebrew/Library/Homebrew/brew.rb install homebrew/science/opencv
+window	0	0	0	:	f855,270x59,0,0{137x59,0,0[137x32,0,0,1,137x26,0,33,2],132x59,138,0[132x32,138,0,3,132x26,138,33,4]}
+window	0	1	0	:-	96f0,270x59,0,0{88x59,0,0[88x31,0,0,5,88x27,0,32,6],89x59,89,0[89x31,89,0,7,89x27,89,32,8],91x59,179,0[91x31,179,0,9,91x27,179,32,10]}
+window	0	2	1	:*	4a11,270x59,0,0[270x31,0,0{136x31,0,0,11,133x31,137,0,12},270x27,0,32{136x27,0,32,13,133x27,137,32,14}]
+window	1	0	1	:*	6964,270x59,0,0,15
+window	2	0	1	:*	2384,270x59,0,0{90x59,0,0[90x30,0,0,16,90x28,0,31,17],88x59,91,0[88x30,91,0,18,88x28,91,31,19],90x59,180,0[90x30,180,0,20,90x28,180,31,21]}
+window	2	1	0	:-	f9e4,270x59,0,0[270x30,0,0{135x30,0,0,22,134x30,136,0,23},270x28,0,31{135x28,0,31,24,134x28,136,31,25}]
+window	9	2	0	:	6966,270x59,0,0,36
+window	9	3	0	:-	6c28,270x59,0,0{135x59,0,0[135x30,0,0,37,135x28,0,31,38],134x59,136,0[134x30,136,0,39,134x28,136,31,40]}
+window	9	4	0	:	7c20,270x59,0,0{135x59,0,0[135x30,0,0,41,135x28,0,31,42],134x59,136,0[134x30,136,0,43,134x28,136,31,44]}
+window	9	5	1	:*	0cc0,270x59,0,0{135x59,0,0,45,134x59,136,0,46}
+state	9	2

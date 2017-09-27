@@ -1,0 +1,44 @@
+pane	0	0	:~/src/FareBolt	0	:	0	:/Users/colinarmstrong/src/FareBolt	1	zsh	:
+pane	0	0	:~/src/FareBolt	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim css/new-age.css
+pane	0	0	:~/src/FareBolt	0	:	2	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/home.handlebars
+pane	0	0	:~/src/FareBolt	0	:	3	:/Users/colinarmstrong/src/FareBolt	0	nvim	:nvim views/pricing.handlebars
+pane	0	1	:..ltfare-server	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	1	:..ltfare-server	0	:-	3	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	1	:..ltfare-server	0	:-	5	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	0	2	:..ltfare-server	1	:*	2	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	0	2	:..ltfare-server	1	:*	3	:/usr/local/Cellar	0	zsh	:
+pane	1	0	:..ltfare-server	1	:*	0	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	0	:/Users/colinarmstrong/src/boltfare-server/messages	0	nvim	:nvim index.js
+pane	2	0	:nvim	1	:*	1	:/Users/colinarmstrong/src/boltfare-server	1	zsh	:
+pane	2	0	:nvim	1	:*	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim travelpayouts.js
+pane	2	0	:nvim	1	:*	3	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim models/Location.js
+pane	2	0	:nvim	1	:*	4	:/Users/colinarmstrong/src/boltfare-server	0	zsh	:
+pane	2	0	:nvim	1	:*	5	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim fares/api.js
+pane	2	1	:~	0	:-	0	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	1	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	2	:/Users/colinarmstrong	0	zsh	:
+pane	2	1	:~	0	:-	3	:/Users/colinarmstrong	1	zsh	:
+pane	9	0	:nvim	0	:-	0	:/Users/colinarmstrong/src/boltfare-server	0	nvim	:nvim node_modules/sabre-dev-studio/lib/sabre-dev-studio-flight.js
+pane	9	0	:nvim	0	:-	1	:/Users/colinarmstrong/src/boltfare-server	1	nvim	:nvim /Users/colinarmstrong/.tmux.conf
+pane	9	0	:nvim	0	:-	2	:/Users/colinarmstrong/src/boltfare-server/scripts	0	nvim	:nvim sabre.js
+pane	9	1	:..ol/4B/ECE457B	1	:*	0	:/Users/colinarmstrong/Documents/School/4B/ECE457B	1	nvim	:nvim a3-q2.py
+pane	9	1	:..ol/4B/ECE457B	1	:*	1	:/Users/colinarmstrong/Documents/School/4B/ECE457B	0	zsh	:
+pane	9	1	:..ol/4B/ECE457B	1	:*	2	:/Users/colinarmstrong/Documents/School/4B/ECE457B	0	nvim	:nvim assignment6.py
+pane	9	1	:..ol/4B/ECE457B	1	:*	3	:/Users/colinarmstrong/src/ece457	0	zsh	:
+pane	9	5	:~/src/FareBolt	0	:	0	:/Users/colinarmstrong/src/ece457/SmileVision/src	1	zsh	:
+pane	9	5	:~/src/FareBolt	0	:	1	:/Users/colinarmstrong/src/FareBolt	0	zsh	:
+window	0	0	0	:	0ee8,201x49,0,0{102x49,0,0[102x27,0,0,1,102x21,0,28,2],98x49,103,0[98x27,103,0,3,98x21,103,28,4]}
+window	0	1	0	:-	6be7,201x49,0,0{64x49,0,0[64x26,0,0,5,64x22,0,27,6],66x49,65,0[66x26,65,0,7,66x22,65,27,8],69x49,132,0[69x26,132,0,9,69x22,132,27,10]}
+window	0	2	1	:*	7597,201x49,0,0[201x26,0,0{101x26,0,0,11,99x26,102,0,12},201x22,0,27{101x22,0,27,13,99x22,102,27,14}]
+window	1	0	1	:*	67c4,201x49,0,0,15
+window	2	0	1	:*	8dbf,201x49,0,0{67x49,0,0[67x24,0,0,16,67x24,0,25,17],65x49,68,0[65x24,68,0,18,65x24,68,25,19],67x49,134,0[67x24,134,0,20,67x24,134,25,21]}
+window	2	1	0	:-	fa44,201x49,0,0[201x24,0,0{101x24,0,0,22,99x24,102,0,23},201x24,0,25{101x24,0,25,24,99x24,102,25,25}]
+window	9	0	0	:-	2e19,201x49,0,0[201x24,0,0,26,201x24,0,25{100x24,0,25,27,100x24,101,25,28}]
+window	9	1	1	:*	77ee,201x49,0,0{101x49,0,0[101x24,0,0,30,101x24,0,25,36],99x49,102,0[99x24,102,0,31,99x24,102,25,32]}
+window	9	5	0	:	87fb,201x49,0,0{101x49,0,0,33,99x49,102,0,34}
+state	9	2
